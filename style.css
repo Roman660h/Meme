@@ -3,6 +3,26 @@ body {
 }
 
 button {
-    width: 488px;
+    width: 487px;
     height: 230px;
+    border: double black 10px;
+    border-radius: 10px;
+    -webkit-text-stroke-width: 1px;
+}
+
+img {
+    height: 490px;
+    width: max-content;
+    border: double black 10px;
+    border-radius: 10px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+#Meme {
+    display: flex;
+    justify-content: center;
 }
